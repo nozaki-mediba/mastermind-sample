@@ -1,0 +1,6 @@
+- name: mediba logo
+  url: http://www.mediba.jp/resource/images/header/logo.png
+  request:
+    skip: true
+  response:
+    body: ./168x40.png
